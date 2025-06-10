@@ -1,0 +1,6 @@
+name: AntiAFK
+main: miroshka.antiafk.AntiAFK
+version: "${version}"
+api: ["1.0.0"]
+author: Miroshka
+description: Detects AFK players and automatically kicks them after a specified time. 
